@@ -1,12 +1,5 @@
 package za.ac.cput.service.serviceImpl;
-
-
-/* DeliveryVehicleServiceImpl.java
- Entity for the serviceImpl
- Author: Ferdouz Allie 214038033
- Date: 10 June 2023
-*/
-
+//Ferdouz
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import za.ac.cput.domain.DeliveryVehicle;

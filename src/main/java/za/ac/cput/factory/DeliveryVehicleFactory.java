@@ -7,7 +7,7 @@ package za.ac.cput.factory;
 */
 import za.ac.cput.util.Helper;
 import za.ac.cput.domain.DeliveryVehicle;
-
+//Ferdouz
 public class DeliveryVehicleFactory {
     public static DeliveryVehicle createDeliveryVehicle(String vehicleId, String vehicleName,String vehicleLicenceExpiry, double vehicleLoadCapacity, boolean isAvailable) {
         vehicleId = Helper.generateID();

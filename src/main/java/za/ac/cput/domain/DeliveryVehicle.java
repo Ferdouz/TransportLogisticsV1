@@ -1,10 +1,6 @@
 package za.ac.cput.domain;
 
-/* DeliveryVehicle.java
- Entity for the domain
- Author: Ferdouz Allie 214038033
- Date: 10 June 2023
-*/
+//Ferdouz
 public class DeliveryVehicle {
     private String vehicleId;
     private String vehicleName;
