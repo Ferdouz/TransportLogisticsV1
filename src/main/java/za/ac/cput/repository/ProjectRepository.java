@@ -1,5 +1,6 @@
 package za.ac.cput.repository;
-//Ferdouz code
+//Ferdouz's code
+
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import za.ac.cput.domain.Project;

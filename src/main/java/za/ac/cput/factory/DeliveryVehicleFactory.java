@@ -1,13 +1,8 @@
 package za.ac.cput.factory;
 
-/* DeliveryVehicleFactory.java
- Entity for the factory
- Author: Ferdouz Allie 214038033
- Date: 10 June 2023
-*/
 import za.ac.cput.util.Helper;
 import za.ac.cput.domain.DeliveryVehicle;
-//Ferdouz code
+//Ferdouz code's
 public class DeliveryVehicleFactory {
     public static DeliveryVehicle createDeliveryVehicle(String vehicleId, String vehicleName,String vehicleLicenceExpiry, double vehicleLoadCapacity, boolean isAvailable) {
         vehicleId = Helper.generateID();

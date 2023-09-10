@@ -1,5 +1,5 @@
 package za.ac.cput.domain;
-//Ferdouz code
+//Ferdouz's code
 import jakarta.persistence.*;
 @Entity
 @Table(name="project",schema = "")
