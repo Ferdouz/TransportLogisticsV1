@@ -1,6 +1,6 @@
 package za.ac.cput.repository;
 
-//Ferdouz
+//Ferdouz code
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

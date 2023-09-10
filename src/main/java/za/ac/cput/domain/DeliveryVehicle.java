@@ -1,6 +1,6 @@
 package za.ac.cput.domain;
 
-//Ferdouz
+//Ferdouz code
 public class DeliveryVehicle {
     private String vehicleId;
     private String vehicleName;
